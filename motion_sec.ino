@@ -6,7 +6,7 @@ int value = LOW;
 
 void setup() {
   pinMode(ledLight, OUTPUT);
-  //decla
+  //
   pinMode (relaySwitch, OUTPUT);
   //declare pin 11 as Output
   pinMode(PIR, INPUT);
