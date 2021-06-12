@@ -1,5 +1,5 @@
 int led = 13;
-//declare variable to
+//declare variable
 int sensor = 2;
 
 void setup() {
