@@ -7,7 +7,7 @@ int value = LOW;
 void setup() {
   pinMode(ledLight, OUTPUT);
   pinMode (relaySwitch, OUTPUT);
-  //declare pin 11 as
+  //declare pin 11 a
   pinMode(PIR, INPUT);
   Serial.begin(9600);
 }
