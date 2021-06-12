@@ -1,5 +1,5 @@
 int led = 13;
-//declare variable to store pin value for pir
+//declare variable to store pin value for
 int sensor = 2;
 
 void setup() {
