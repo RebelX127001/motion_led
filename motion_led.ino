@@ -14,7 +14,7 @@ void loop() {
     digitalWrite(led, HIGH);
     delay(1000);
   }
-  //else if sensor
+  //else if
   else {
     //display motion stopped and turn the led off
     Serial.println("No Motion!");
