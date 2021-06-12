@@ -1,4 +1,4 @@
-//declare variable to store pin value for
+//declare variable to store pin value
 int led = 13;
 //declare variable to store pin value for pir sensor
 int sensor = 2;
