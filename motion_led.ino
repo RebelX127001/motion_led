@@ -4,7 +4,7 @@ int sensor = 2;
 void setup() {
   pinMode(led, OUTPUT);
   pinMode(sensor, INPUT);
-  //the transfer capacity for the serial
+  //the transfer capacity for the
   Serial.begin(9600);
 }
 
