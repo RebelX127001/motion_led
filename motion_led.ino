@@ -2,7 +2,7 @@ int led = 13;
 int sensor = 2;
 
 void setup() {
-  //make led which is pin 13 an
+  //make led which is pin 13
   pinMode(led, OUTPUT);
   //make sensor which is in pin 2 an input
   pinMode(sensor, INPUT);
