@@ -7,6 +7,7 @@ int value = LOW;
 void setup() {
   //declare pin 7 as Output
   pinMode(ledLight, OUTPUT);
+  //declare pin 8 as Output
   pinMode (relaySwitch, OUTPUT);
   pinMode(PIR, INPUT);
   Serial.begin(9600); //set the board rate for displaying text on the serial monitor
