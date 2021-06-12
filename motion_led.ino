@@ -1,5 +1,4 @@
 int led = 13;
-//declare
 int sensor = 2;
 
 void setup() {
