@@ -15,7 +15,7 @@ void loop() {
     //pause the program for
     delay(1000);
   }
-  //else if sensor value is
+  //else if sensor value
   else {
     //display motion stopped and turn the led off
     Serial.println("No Motion!");
