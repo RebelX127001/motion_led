@@ -17,7 +17,7 @@ void loop() {
   else {
     Serial.println("No Motion!");
     digitalWrite(led, LOW);
-    //pause the pro
+    //pause the 
     delay(1000);
   }
 }
