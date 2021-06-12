@@ -8,7 +8,7 @@ void setup() {
 }
 
 void loop() {
-  //declare variable
+  //declare
   int sensorval = digitalRead(sensor);
 
   //if sensor value is high
