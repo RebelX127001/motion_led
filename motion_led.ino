@@ -10,7 +10,7 @@ void setup() {
 void loop() {
   int sensorval = digitalRead(sensor);
   if (sensorval == HIGH) {
-    //display motion detected and turn on led
+    //display motion detected and turn on
     Serial.println("Motion Detected!");
     digitalWrite(led, HIGH);
     //pause the program for 1 second
