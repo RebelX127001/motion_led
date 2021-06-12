@@ -5,7 +5,7 @@ int button = 13;
 int value = LOW;
 
 void setup() {
-  //declare pin 7 as Output
+  //declare pin 7 as
   pinMode(ledLight, OUTPUT);
   //declare pin 8 as Output
   pinMode (relaySwitch, OUTPUT);
