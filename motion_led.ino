@@ -1,5 +1,5 @@
 int led = 13;
-//declare variable to store pin value for
+//declare variable to store pin value
 int sensor = 2;
 
 void setup() {
