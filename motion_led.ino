@@ -3,7 +3,7 @@ int sensor = 2;
 
 void setup() {
   pinMode(led, OUTPUT);
-  //make sensor which
+  //make sensor
   pinMode(sensor, INPUT);
   //the transfer capacity for the serial port
   Serial.begin(9600);
