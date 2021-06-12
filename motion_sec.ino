@@ -26,7 +26,6 @@ void loop(){
       digitalWrite (ledLight, LOW);
       digitalWrite (relaySwitch, LOW);
       Serial.println("No Movement!!!");
-      //set delay for 200milliseconda
       delay(200);
   }
 }
