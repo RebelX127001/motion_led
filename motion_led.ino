@@ -12,7 +12,7 @@ void loop() {
   if (sensorval == HIGH) {
     Serial.println("Motion Detected!");
     digitalWrite(led, HIGH);
-    //pause the program
+    //pause the
     delay(1000);
   }
   //else if sensor value
